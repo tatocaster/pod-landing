@@ -15,6 +15,7 @@
 		<ns1:image href="https://source.debuggerpodcast.ge/Profile-2000.jpg" />
 		<ns1:explicit>false</ns1:explicit>
 		<ns1:category text="Technology" />
+		<itunes:category text="Technology" />
 		<item>
 			<title>ეპ. 00 - გაცნობა</title>
 			<description>&lt;![CDATA["Hello World" ეპიზოდი. მოთხრობილია პოდკასტების სერიის მიზნის შესახებ.
