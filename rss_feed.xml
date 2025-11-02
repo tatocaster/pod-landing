@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
-        <ns0:link href="https://debuggerpodcast.ge/rss.xml" rel="self" type="application/rss+xml" />
+        <ns0:link href="https://debuggerpodcast.ge/rss_feed.xml" rel="self" type="application/rss+xml" />
 		<title>Debugger Podcast</title>
 		<link>https://debuggerpodcast.ge</link>
 		<description>🎙 Debugger Podcast - პირველი ქართული ტექნოლოგიური პოდკასტი დეველოპერული კულტურის, ტრენდული ტექნოლოგიების და კარიერული ზრდის შესახებ.</description>
@@ -12,7 +12,7 @@
             <ns1:email>kutaliatato@gmail.com</ns1:email>
         </ns1:owner>
 
-		<ns1:image href="https://debuggerpodcast.ge/Profile-2000.jpg" />
+		<ns1:image href="https://source.debuggerpodcast.ge/Profile-2000.jpg" />
 		<ns1:explicit>false</ns1:explicit>
 		<ns1:category text="Technology" />
 		<item>
@@ -32,7 +32,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 16 Dec 2018 08:20:59 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 0 - გაცნობა.mp3" length="125000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 0 - გაცნობა.mp3" length="125000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-0</guid>
 			<ns1:duration>125</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -43,7 +43,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 			<title>ეპ. 01 - უარის თქმა</title>
 			<description>&lt;![CDATA[როდის უნდა ვთქვათ "არა", როგორ გავხდეთ უკეთესი პროფესიონალები წიგნის ბმული : https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073]]&gt;</description>
 			<pubDate>Sun, 16 Dec 2018 15:45:38 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 1 - უარის თქმა.mp3" length="753000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 1 - უარის თქმა.mp3" length="753000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-1</guid>
 			<ns1:duration>753</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -55,7 +55,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 			<description>&lt;![CDATA[როდის უნდა ვთქვათ "კი", როგორ გავხდეთ უკეთესი პროფესიონალები
 წიგნის ბმული : www.amazon.com/Clean-Coder-Condu…ers/dp/0137081073]]&gt;</description>
 			<pubDate>Wed, 19 Dec 2018 18:06:15 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 2 - თანხმობა.mp3" length="731000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 2 - თანხმობა.mp3" length="731000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-2</guid>
 			<ns1:duration>731</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -67,7 +67,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 			<description>&lt;![CDATA[https://blog.codinghorror.com/the-best-code-is-no-code-at-all/
 პოდკასტი უკვე iTunes, Spotify და PocketCasts-ზეა!]]&gt;</description>
 			<pubDate>Wed, 26 Dec 2018 20:15:43 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 3 - სიზარმაცე როგორც საიდუმლო იარაღი.mp3" length="364000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 3 - სიზარმაცე როგორც საიდუმლო იარაღი.mp3" length="364000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-3</guid>
 			<ns1:duration>364</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -79,7 +79,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 			<description>&lt;![CDATA[მცირეოდენი meetup -ების შესახებ. რატომ არის მნიშვნელოვანი? რა ხდება დღეს თბილისში? და რით შეგვიძლია გავაუმჯობესოთ.აქვე ძალიან საინტერესო სტატია ირაკლი საფარელისგან, აუცილებლად წასაკითხი: https://medium.com/@safareli/meetup-4a8d78c31f6f
 პოდკასტი უკვე iTunes, Spotify და PocketCasts-ზეა!]]&gt;</description>
 			<pubDate>Mon, 07 Jan 2019 20:29:29 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 4 - შეხვედრების შესახებ.mp3" length="611000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 4 - შეხვედრების შესახებ.mp3" length="611000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-4</guid>
 			<ns1:duration>611</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -91,7 +91,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 			<description>&lt;![CDATA[საუბარი პროდუქტიულობის შესახებ. სხვადასხვა რჩევა როგორ შეიძება უკეთ ვაკეთოთ საქმე უფრო ეფექტურად.რატომ არის ღამე მუშაობა უფრო ცუდიგანხილული პამიდორის ტექნიკა : https://en.wikipedia.org/wiki/Pomodoro_Technique
 პოდკასტი უკვე iTunes, Spotify და PocketCasts-ზეა! ლინკები პოდკასტის ინფოში]]&gt;</description>
 			<pubDate>Thu, 17 Jan 2019 16:57:53 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 5 - პროდუქტიულობის რჩევები.mp3" length="765000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 5 - პროდუქტიულობის რჩევები.mp3" length="765000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-5</guid>
 			<ns1:duration>765</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -106,7 +106,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 პოდკასტი უკვე iTunes, Spotify და PocketCasts-ზეა!]]&gt;</description>
 			<pubDate>Fri, 08 Feb 2019 20:48:58 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 6 - არაპროდუქტიულობის გრძნობა.mp3" length="906000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 6 - არაპროდუქტიულობის გრძნობა.mp3" length="906000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-6</guid>
 			<ns1:duration>906</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -119,7 +119,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 პოდკასტი უკვე iTunes, Spotify და PocketCasts-ზეა!]]&gt;</description>
 			<pubDate>Sat, 02 Mar 2019 15:38:19 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 7 - ინტერნეტის გაქართულებიზაცია.mp3" length="1151000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 7 - ინტერნეტის გაქართულებიზაცია.mp3" length="1151000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-7</guid>
 			<ns1:duration>1151</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -130,7 +130,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 			<title>ეპ. 08 - ცუდი დეველოპერი გუნდში</title>
 			<description>&lt;![CDATA[რას ნიშნავს ცუდი დეველოპერი გუნდში და ზოგადად ცუდი გუნდური მოთამაშე? რა კავშირია დეველოპერსა და კარტოფილის მომწოდებელს შორის?პოდკასტი უკვე iTunes, Spotify და PocketCasts-ზეა!]]&gt;</description>
 			<pubDate>Tue, 02 Apr 2019 15:57:10 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 8 - ცუდი დეველოპერი გუნდში.mp3" length="822000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 8 - ცუდი დეველოპერი გუნდში.mp3" length="822000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-8</guid>
 			<ns1:duration>822</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -141,7 +141,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 			<title>ეპ. 09 - დამწყების პროექტი პირველი სამსახურისთვის</title>
 			<description>&lt;![CDATA[რა უნდა გააკეთოს დამწყებმა მაშინ როცა არ გააჩნია არანაირი სამუშაო გამოცდილება და არაქვს არცერთ ღია პროექტზე ნამუშევარი?]]&gt;</description>
 			<pubDate>Wed, 01 May 2019 19:57:26 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 9 - დამწყების პროექტი პირველი სამსახურისთვის.mp3" length="989000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 9 - დამწყების პროექტი პირველი სამსახურისთვის.mp3" length="989000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-9</guid>
 			<ns1:duration>989</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -152,7 +152,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 			<title>ეპ. 10 - აკეთე და დაასრულე შენი საქმე</title>
 			<description>&lt;![CDATA[ზაფხულის პაუზის მერე debugger podcast დაბრუნდა!მიმოვიხილე რა გვიშლის საქმის კეთებაში ხელს და რატომ არის ბუნებრივი მოვლენა იყო ჩვეულებრივი, საშუალო დეველოპერი.პოდკასტი iTunes, Spotify და PocketCasts-ზეა!]]&gt;</description>
 			<pubDate>Mon, 09 Sep 2019 19:20:06 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 10 - აკეთე და დაასრულე შენი საქმე.mp3" length="816000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 10 - აკეთე და დაასრულე შენი საქმე.mp3" length="816000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-10</guid>
 			<ns1:duration>816</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -170,7 +170,7 @@ https://commonsware.com/Android/
 
 http://geolab.edu.ge/ka-GE/Courses/CourseDetails/11]]&gt;</description>
 			<pubDate>Fri, 18 Oct 2019 12:45:40 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 11 - როგორ დავიწყოთ Android მარტივად.mp3" length="1283000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 11 - როგორ დავიწყოთ Android მარტივად.mp3" length="1283000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-11</guid>
 			<ns1:duration>1283</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -189,7 +189,7 @@ https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-eng
 
 https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/]]&gt;</description>
 			<pubDate>Wed, 12 Feb 2020 11:35:41 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 12 - React Native.mp3" length="1121000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 12 - React Native.mp3" length="1121000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-12</guid>
 			<ns1:duration>1121</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -212,7 +212,7 @@ https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart
 semver-ის შესახებ
 https://semver.org/]]&gt;</description>
 			<pubDate>Mon, 17 Feb 2020 05:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 13 - Flutter.mp3" length="680000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 13 - Flutter.mp3" length="680000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-13</guid>
 			<ns1:duration>680</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -231,7 +231,7 @@ https://developers.google.com/tech-writing/
 https://www.markdowntutorial.com/
 https://dillinger.io/]]&gt;</description>
 			<pubDate>Mon, 09 Mar 2020 04:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 16 - ტექნიკური დოკუმენტაცია.mp3" length="602000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 16 - ტექნიკური დოკუმენტაცია.mp3" length="602000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-16</guid>
 			<ns1:duration>602</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -264,7 +264,7 @@ https://decast.buzzsprout.com/878782/3022984-de-cast-ep-2
 მერფის კანონი:
 https://en.wikipedia.org/wiki/Murphy%27s_law]]&gt;</description>
 			<pubDate>Mon, 16 Mar 2020 04:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 17 - როგორ მოვემზადო პირველი ტექ.სამუშაოსთვის.mp3" length="785000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 17 - როგორ მოვემზადო პირველი ტექ.სამუშაოსთვის.mp3" length="785000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-17</guid>
 			<ns1:duration>785</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -280,7 +280,7 @@ https://en.wikipedia.org/wiki/Murphy%27s_law]]&gt;</description>
 **********************************
 მოიწონე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 29 Mar 2020 22:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 19 - უკუკავშირის ეკვილიბრიუმი.mp3" length="723000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 19 - უკუკავშირის ეკვილიბრიუმი.mp3" length="723000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-19</guid>
 			<ns1:duration>723</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -302,7 +302,7 @@ https://stackoverflow.com/help/how-to-ask
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 06 Apr 2020 18:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 20 - ოსტატი და პადავანი.mp3" length="854000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 20 - ოსტატი და პადავანი.mp3" length="854000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-20</guid>
 			<ns1:duration>854</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -329,7 +329,7 @@ software development-ის პრინციპები: https://en.wikipedia
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 12 Apr 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 21 - აბსტრაქციები ცხოვრებაში და SOLID-ური მანიპულაციები.mp3" length="854000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 21 - აბსტრაქციები ცხოვრებაში და SOLID-ური მანიპულაციები.mp3" length="854000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-21</guid>
 			<ns1:duration>854</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -361,7 +361,7 @@ debugger podcast-ის სხვა ეპიზოდები
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 19 Apr 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 22 - მოტივაციის სამოტივაციო.mp3" length="680000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 22 - მოტივაციის სამოტივაციო.mp3" length="680000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-22</guid>
 			<ns1:duration>680</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -379,7 +379,7 @@ debugger podcast-ის სხვა ეპიზოდები
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 26 Apr 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 23 - ვისთვის არის კოდი_ და კომუნიკაცია.mp3" length="452000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 23 - ვისთვის არის კოდი_ და კომუნიკაცია.mp3" length="452000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-23</guid>
 			<ns1:duration>452</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -402,7 +402,7 @@ http://www.mikepope.com/blog/AddComment.aspx?blogid=2392
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 03 May 2020 20:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 24 - ძაღლი არ ყეფს ანუ პროდუქტის გულისცემა.mp3" length="648000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 24 - ძაღლი არ ყეფს ანუ პროდუქტის გულისცემა.mp3" length="648000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-24</guid>
 			<ns1:duration>648</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -425,7 +425,7 @@ https://devrant.com/rants/196949/when-your-boss-has-no-technical-background-so-a
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 10 May 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 25 - მენეჯერმა რაო.mp3" length="716000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 25 - მენეჯერმა რაო.mp3" length="716000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-25</guid>
 			<ns1:duration>716</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -441,7 +441,7 @@ https://devrant.com/rants/196949/when-your-boss-has-no-technical-background-so-a
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 17 May 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 26 - როგორ გავუმკლავდეთ შიშებს.mp3" length="590000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 26 - როგორ გავუმკლავდეთ შიშებს.mp3" length="590000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-26</guid>
 			<ns1:duration>590</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -463,7 +463,7 @@ https://portal.netobjectives.com/articles/vehement-mediocrity/
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 25 May 2020 11:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 27 - სიჩქარეზე და ხარისხზე 2 წუთში.mp3" length="490000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 27 - სიჩქარეზე და ხარისხზე 2 წუთში.mp3" length="490000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-27</guid>
 			<ns1:duration>490</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -479,7 +479,7 @@ https://portal.netobjectives.com/articles/vehement-mediocrity/
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 01 Jun 2020 07:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 28 - როდის ხვდები რომ მიაღწიე მიზანს.mp3" length="802000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 28 - როდის ხვდები რომ მიაღწიე მიზანს.mp3" length="802000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-28</guid>
 			<ns1:duration>802</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -500,7 +500,7 @@ git commit message: https://chris.beams.io/posts/git-commit/
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 07 Jun 2020 20:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 29 - კომუნიკაცია დეველოპერულად.mp3" length="735000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 29 - კომუნიკაცია დეველოპერულად.mp3" length="735000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-29</guid>
 			<ns1:duration>735</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -518,7 +518,7 @@ git commit message: https://chris.beams.io/posts/git-commit/
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 14 Jun 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 30 - bug vs feature.mp3" length="444000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 30 - bug vs feature.mp3" length="444000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-30</guid>
 			<ns1:duration>444</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -537,7 +537,7 @@ git commit message: https://chris.beams.io/posts/git-commit/
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 21 Jun 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 31 - თუ მუშაობს არ შეეხო.mp3" length="701000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 31 - თუ მუშაობს არ შეეხო.mp3" length="701000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-31</guid>
 			<ns1:duration>701</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -556,7 +556,7 @@ debugger podcast - "ეპ. 28 - როდის ხვდები რომ �
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 28 Jun 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 32 - დეველოპერის კეთილდღეობის გასაღები.mp3" length="624000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 32 - დეველოპერის კეთილდღეობის გასაღები.mp3" length="624000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-32</guid>
 			<ns1:duration>624</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -584,7 +584,7 @@ changelog: https://github.com/olivierlacan/keep-a-changelog/blob/master/source/k
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 05 Jul 2020 20:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 33 - ცვლილებების ჟურნალი.mp3" length="500000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 33 - ცვლილებების ჟურნალი.mp3" length="500000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-33</guid>
 			<ns1:duration>499</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -600,7 +600,7 @@ changelog: https://github.com/olivierlacan/keep-a-changelog/blob/master/source/k
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 27 Oct 2025 18:54:25 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 34 - სამუშაოს აღწერა და რეალობა.mp3" length="14004638" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 34 - სამუშაოს აღწერა და რეალობა.mp3" length="14004638" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-34</guid>
 			<ns1:duration>816</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -620,7 +620,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 20 Jul 2020 13:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 35 - სტრესი სამუშაოზე.mp3" length="735000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 35 - სტრესი სამუშაოზე.mp3" length="735000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-35</guid>
 			<ns1:duration>735</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -641,7 +641,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 26 Jul 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 36 - პირველი ტექ. გასაუბრება.mp3" length="844000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 36 - პირველი ტექ. გასაუბრება.mp3" length="844000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-36</guid>
 			<ns1:duration>844</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -662,7 +662,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 03 Aug 2020 05:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 37 - რჩევა სტუდენტებს.mp3" length="700000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 37 - რჩევა სტუდენტებს.mp3" length="700000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-37</guid>
 			<ns1:duration>700</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -683,7 +683,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 09 Aug 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 38 - სამუშაოს ძებნა.mp3" length="734000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 38 - სამუშაოს ძებნა.mp3" length="734000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-38</guid>
 			<ns1:duration>734</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -704,7 +704,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 16 Aug 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 39 - იაფი ტესტები.mp3" length="567000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 39 - იაფი ტესტები.mp3" length="567000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-39</guid>
 			<ns1:duration>567</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -727,7 +727,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 23 Aug 2020 20:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 40 - როგორ მოვხდეთ ნებისმიერ გასაუბრებაზე.mp3" length="770000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 40 - როგორ მოვხდეთ ნებისმიერ გასაუბრებაზე.mp3" length="770000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-40</guid>
 			<ns1:duration>770</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -749,7 +749,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 31 Aug 2020 02:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 41 - BitCamp.mp3" length="565000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 41 - BitCamp.mp3" length="565000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-41</guid>
 			<ns1:duration>565</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -769,7 +769,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 07 Sep 2020 07:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 42 - იმედგაცრუება და bug-ები.mp3" length="613000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 42 - იმედგაცრუება და bug-ები.mp3" length="613000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-42</guid>
 			<ns1:duration>613</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -795,7 +795,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 14 Sep 2020 14:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 43 - როდის დავიწყო სამუშოს ძებნა.mp3" length="561000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 43 - როდის დავიწყო სამუშოს ძებნა.mp3" length="561000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-43</guid>
 			<ns1:duration>561</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -815,7 +815,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 21 Sep 2020 06:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 44 - რა არის ბიზნეს ლოგიკა და დომენი.mp3" length="617000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 44 - რა არის ბიზნეს ლოგიკა და დომენი.mp3" length="617000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-44</guid>
 			<ns1:duration>617</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -835,7 +835,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 28 Sep 2020 04:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 45 - თუ არასწორ ადგილას მუშაობ.mp3" length="646000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 45 - თუ არასწორ ადგილას მუშაობ.mp3" length="646000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-45</guid>
 			<ns1:duration>646</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -856,7 +856,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 05 Oct 2020 04:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 46 - ამბავი ცხვარზე, გუნდელებზე და კოდზე.mp3" length="475000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 46 - ამბავი ცხვარზე, გუნდელებზე და კოდზე.mp3" length="475000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-46</guid>
 			<ns1:duration>475</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -879,7 +879,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 11 Oct 2020 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 47 - ცუდი და კარგი კოდი.mp3" length="723000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 47 - ცუდი და კარგი კოდი.mp3" length="723000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-47</guid>
 			<ns1:duration>723</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -899,7 +899,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 19 Oct 2020 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 48 - ყველაფერი ვერ გეცოდინება.mp3" length="426000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 48 - ყველაფერი ვერ გეცოდინება.mp3" length="426000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-48</guid>
 			<ns1:duration>426</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -919,7 +919,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 26 Oct 2020 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 49 - რა ვაკეთოთ განვითარებისთვის.mp3" length="676000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 49 - რა ვაკეთოთ განვითარებისთვის.mp3" length="676000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-49</guid>
 			<ns1:duration>676</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -940,7 +940,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 02 Nov 2020 12:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 50 - ჯერ კოდი დავწერო თუ.mp3" length="619000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 50 - ჯერ კოდი დავწერო თუ.mp3" length="619000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-50</guid>
 			<ns1:duration>618</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -964,7 +964,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 16 Nov 2020 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 52 - OWASP.mp3" length="637000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 52 - OWASP.mp3" length="637000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-52</guid>
 			<ns1:duration>637</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -986,7 +986,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 23 Nov 2020 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 53 - მიმდინარე პროექტში ჩართვა.mp3" length="650000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 53 - მიმდინარე პროექტში ჩართვა.mp3" length="650000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-53</guid>
 			<ns1:duration>650</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1005,7 +1005,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 30 Nov 2020 18:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 54 - შეცდომების დაშვება და პასუხისმგებლობა.mp3" length="505000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 54 - შეცდომების დაშვება და პასუხისმგებლობა.mp3" length="505000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-54</guid>
 			<ns1:duration>505</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1026,7 +1026,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონეთ ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 06 Dec 2020 22:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 55 - DevOps 101.mp3" length="732000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 55 - DevOps 101.mp3" length="732000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-55</guid>
 			<ns1:duration>732</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1046,7 +1046,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 14 Dec 2020 02:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 56 - საუკეთესოა საუკეთესო პრაქტიკები.mp3" length="845000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 56 - საუკეთესოა საუკეთესო პრაქტიკები.mp3" length="845000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-56</guid>
 			<ns1:duration>845</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1064,7 +1064,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 21 Dec 2020 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 57 - Remote კომუნიკაცია.mp3" length="663000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 57 - Remote კომუნიკაცია.mp3" length="663000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-57</guid>
 			<ns1:duration>663</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1084,7 +1084,7 @@ https://www.facebook.com/groups/debuggerpodcastcommunity
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Sun, 27 Dec 2020 22:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 58 - 2020 შეჯამება.mp3" length="639000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 58 - 2020 შეჯამება.mp3" length="639000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-58</guid>
 			<ns1:duration>639</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1103,7 +1103,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 04 Jan 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 59 - სუპერვარსკვლავის ეფექტი.mp3" length="569000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 59 - სუპერვარსკვლავის ეფექტი.mp3" length="569000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-59</guid>
 			<ns1:duration>569</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1124,7 +1124,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 11 Jan 2021 02:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 60 - როგორ ამოვიცნოთ გავლენა.mp3" length="734000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 60 - როგორ ამოვიცნოთ გავლენა.mp3" length="734000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-60</guid>
 			<ns1:duration>734</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1141,7 +1141,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 18 Jan 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 61 - როგორ და როდის გავარჩიოთ სიახლეები.mp3" length="491000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 61 - როგორ და როდის გავარჩიოთ სიახლეები.mp3" length="491000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-61</guid>
 			<ns1:duration>491</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1158,7 +1158,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 25 Jan 2021 19:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 62 - სწავლების მეთოდები დამწყებებისთვის.mp3" length="783000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 62 - სწავლების მეთოდები დამწყებებისთვის.mp3" length="783000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-62</guid>
 			<ns1:duration>783</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1173,7 +1173,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 01 Feb 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 63 - რა გვჭირდება  mobile დეველოპმენტისთვის.mp3" length="596000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 63 - რა გვჭირდება  mobile დეველოპმენტისთვის.mp3" length="596000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-63</guid>
 			<ns1:duration>596</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1188,7 +1188,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 08 Feb 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 64 - მუშაობა დიდ vs პატარა კომპანიაში.mp3" length="627000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 64 - მუშაობა დიდ vs პატარა კომპანიაში.mp3" length="627000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-64</guid>
 			<ns1:duration>627</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1203,7 +1203,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 15 Feb 2021 05:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 65 - რომელი ენა ვისწავლო.mp3" length="627000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 65 - რომელი ენა ვისწავლო.mp3" length="627000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-65</guid>
 			<ns1:duration>627</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1218,7 +1218,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 22 Feb 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 66 - კოდი როგორც თვითგამოხატვის საშუალება.mp3" length="482000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 66 - კოდი როგორც თვითგამოხატვის საშუალება.mp3" length="482000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-66</guid>
 			<ns1:duration>482</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1233,7 +1233,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 01 Mar 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 67 - როგორ გავაკეთოთ რაც არ გვინდა.mp3" length="680000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 67 - როგორ გავაკეთოთ რაც არ გვინდა.mp3" length="680000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-67</guid>
 			<ns1:duration>680</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1248,7 +1248,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 08 Mar 2021 01:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 68 - code review საჭიროება.mp3" length="787000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 68 - code review საჭიროება.mp3" length="787000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-68</guid>
 			<ns1:duration>787</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1263,7 +1263,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 15 Mar 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 69 - რაში გვჭირდება დოკუმენტაცია.mp3" length="575000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 69 - რაში გვჭირდება დოკუმენტაცია.mp3" length="575000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-69</guid>
 			<ns1:duration>574</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1278,7 +1278,7 @@ https://en.wikipedia.org/wiki/The_Superstar_Effect
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 22 Mar 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 70 - რას ნიშნავს intern(სერია განვსაზღვროთ დონეები).mp3" length="650000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 70 - რას ნიშნავს intern(სერია განვსაზღვროთ დონეები).mp3" length="650000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-70</guid>
 			<ns1:duration>650</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1296,7 +1296,7 @@ https://debuggerpodcast.buzzsprout.com/875212/8233863-70-intern
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 29 Mar 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 71 - რას ნიშნავს Junior დეველოპერი (სერია განვსაზღვროთ დონეები).mp3" length="670000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 71 - რას ნიშნავს Junior დეველოპერი (სერია განვსაზღვროთ დონეები).mp3" length="670000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-71</guid>
 			<ns1:duration>670</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1317,7 +1317,7 @@ https://debuggerpodcast.buzzsprout.com/875212/8233863-70-intern
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 05 Apr 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 72 - რას ნიშნავს Middle დეველოპერი (სერია განვსაზღვროთ დონეები).mp3" length="549000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 72 - რას ნიშნავს Middle დეველოპერი (სერია განვსაზღვროთ დონეები).mp3" length="549000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-72</guid>
 			<ns1:duration>549</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1341,7 +1341,7 @@ https://debuggerpodcast.buzzsprout.com/875212/8233863-70-intern
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 12 Apr 2021 02:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 73 - რას ნიშნავს Senior დეველოპერი (სერია განვსაზღვროთ დონეები).mp3" length="512000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 73 - რას ნიშნავს Senior დეველოპერი (სერია განვსაზღვროთ დონეები).mp3" length="512000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-73</guid>
 			<ns1:duration>512</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1362,7 +1362,7 @@ https://debuggerpodcast.buzzsprout.com/875212/3165964-19
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 19 Apr 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 74 - ცუდ კოდს ვწერ, რა ვქნა.mp3" length="524000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 74 - ცუდ კოდს ვწერ, რა ვქნა.mp3" length="524000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-74</guid>
 			<ns1:duration>524</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1380,7 +1380,7 @@ https://debuggerpodcast.buzzsprout.com/875212/3165964-19
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 26 Apr 2021 02:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 75 - წიგნის მიმოხილვა (Building Mobile Apps at Scale).mp3" length="768000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 75 - წიგნის მიმოხილვა (Building Mobile Apps at Scale).mp3" length="768000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-75</guid>
 			<ns1:duration>768</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1397,7 +1397,7 @@ Refactoring კატალოგი: https://refactoring.com/catalog/ტექ�
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 03 May 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 76 - წიგნის მიმოხილვა (Refactoring).mp3" length="596000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 76 - წიგნის მიმოხილვა (Refactoring).mp3" length="596000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-76</guid>
 			<ns1:duration>596</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1412,7 +1412,7 @@ Refactoring კატალოგი: https://refactoring.com/catalog/ტექ�
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 10 May 2021 04:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 77 - ახალ პროექტს ვიწყებ, რა ვქნა.mp3" length="738000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 77 - ახალ პროექტს ვიწყებ, რა ვქნა.mp3" length="738000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-77</guid>
 			<ns1:duration>738</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1429,7 +1429,7 @@ Refactoring კატალოგი: https://refactoring.com/catalog/ტექ�
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 17 May 2021 02:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 78 - ტესტების წერა მინდა, რა ვქნა.mp3" length="522000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 78 - ტესტების წერა მინდა, რა ვქნა.mp3" length="522000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-78</guid>
 			<ns1:duration>522</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1444,7 +1444,7 @@ Refactoring კატალოგი: https://refactoring.com/catalog/ტექ�
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 24 May 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 79 - როგორ ვუყურო კონფერენციებს ეფექტურად.mp3" length="457000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 79 - როგორ ვუყურო კონფერენციებს ეფექტურად.mp3" length="457000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-79</guid>
 			<ns1:duration>457</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1459,7 +1459,7 @@ Refactoring კატალოგი: https://refactoring.com/catalog/ტექ�
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 31 May 2021 02:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 80 - როგორ ჩავერთო ახალ პროექტში.mp3" length="477000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 80 - როგორ ჩავერთო ახალ პროექტში.mp3" length="477000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-80</guid>
 			<ns1:duration>477</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1476,7 +1476,7 @@ Refactoring კატალოგი: https://refactoring.com/catalog/ტექ�
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 07 Jun 2021 02:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 81 - დეველოპერები და ეთიკის ხაზი.mp3" length="698000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 81 - დეველოპერები და ეთიკის ხაზი.mp3" length="698000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-81</guid>
 			<ns1:duration>698</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1491,7 +1491,7 @@ Refactoring კატალოგი: https://refactoring.com/catalog/ტექ�
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Mon, 19 Jul 2021 03:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 82 - იყავი სკეპტიკური.mp3" length="578000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 82 - იყავი სკეპტიკური.mp3" length="578000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-82</guid>
 			<ns1:duration>578</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
@@ -1509,7 +1509,7 @@ Refactoring კატალოგი: https://refactoring.com/catalog/ტექ�
 
 მოიწონე ასევე fb გვერდი: https://www.facebook.com/debuggerpodcast/]]&gt;</description>
 			<pubDate>Thu, 01 Sep 2022 21:00:00 +0000</pubDate>
-			<enclosure url="https://debuggerpodcast.ge/audio/Episode 83 - შეზღუდვები და კრეატიულობა.mp3" length="873000" type="audio/mpeg" />
+			<enclosure url="https://source.debuggerpodcast.ge/audio/Episode 83 - შეზღუდვები და კრეატიულობა.mp3" length="873000" type="audio/mpeg" />
 			<guid isPermaLink="false">buzzsprout-875212-episode-83</guid>
 			<ns1:duration>873</ns1:duration>
 			<ns1:explicit>no</ns1:explicit>
