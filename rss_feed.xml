@@ -1,17 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
         <ns0:link href="https://debuggerpodcast.ge/rss_feed.xml" rel="self" type="application/rss+xml" />
 		<title>Debugger Podcast</title>
 		<link>https://debuggerpodcast.ge</link>
 		<description>🎙 Debugger Podcast - პირველი ქართული ტექნოლოგიური პოდკასტი დეველოპერული კულტურის, ტრენდული ტექნოლოგიების და კარიერული ზრდის შესახებ.</description>
 		<language>ka-GE</language>
+		<itunes:author>Tato Kutalia</itunes:author>
 		<ns1:author>Merabi (Tato) Kutalia</ns1:author>
+		<itunes:owner>
+			<itunes:name>Merabi (Tato) Kutalia</itunes:name>
+			<itunes:email>kutaliatato@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://source.debuggerpodcast.ge/Profile-2000.jpg"/>
         <ns1:owner>
             <ns1:name>Merabi (Tato) Kutalia</ns1:name>
             <ns1:email>kutaliatato@gmail.com</ns1:email>
         </ns1:owner>
-
 		<ns1:image href="https://source.debuggerpodcast.ge/Profile-2000.jpg" />
 		<ns1:explicit>false</ns1:explicit>
 		<ns1:category text="Technology" />
