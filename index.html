@@ -68,10 +68,61 @@
             margin: 0 12px;
         }
 
-        .spotify-embed {
+        #player-container {
+            margin-top: 20px;
+        }
+
+        #audio-player {
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        .episodes-container {
+            margin-top: 20px;
+        }
+
+        #episodes-list {
+            list-style: none;
+            padding: 0;
+            margin-top: 10px;
+            max-height: 300px;
+            overflow-y: auto;
+            border: 1px solid #e2e8f0;
             border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .episode-item {
+            padding: 15px;
+            border-bottom: 1px solid #e2e8f0;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .episode-item:last-child {
+            border-bottom: none;
+        }
+
+        .episode-item:hover {
+            background-color: #f7fafc;
+        }
+
+        .episode-item.active {
+            background-color: #e6e6fa;
+        }
+
+        .episode-title {
+            font-weight: 500;
+            color: #2d3748;
+        }
+
+        .episode-date {
+            font-size: 0.9em;
+            color: #718096;
+            margin-left: 15px;
+            white-space: nowrap;
         }
 
         @media (max-width: 768px) {
@@ -110,9 +161,77 @@
             <span>2018</span>
         </div>
         
-        <div class="spotify-embed">
-            <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/7aVled63MhXp3og6wy0A3w?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div id="player-container">
+            <h2 id="episode-title" style="text-align: center; margin-bottom: 16px;">Select an episode to play</h2>
+            <audio id="audio-player" controls>
+                Your browser does not support the audio element.
+            </audio>
+        </div>
+
+        <div class="episodes-container">
+            <h2 style="text-align: center; margin-bottom: 16px;">Episodes</h2>
+            <ul id="episodes-list"></ul>
         </div>
     </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const episodesList = document.getElementById('episodes-list');
+            const audioPlayer = document.getElementById('audio-player');
+            const episodeTitle = document.getElementById('episode-title');
+            let activeListItem = null;
+
+            fetch('https://debuggerpodcast.ge/rss_feed.xml')
+                .then(response => response.text())
+                .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+                .then(data => {
+                    const items = data.querySelectorAll("item");
+                    items.forEach(item => {
+                        const title = item.querySelector("title").textContent;
+                        const audioUrl = item.querySelector("enclosure").getAttribute("url");
+                        const pubDateStr = item.querySelector("pubDate").textContent;
+
+                        const date = new Date(pubDateStr);
+                        const formattedDate = date.toLocaleDateString('en-US', {
+                            year: 'numeric',
+                            month: 'short',
+                            day: 'numeric'
+                        });
+
+                        const listItem = document.createElement('li');
+                        listItem.classList.add('episode-item');
+
+                        const titleSpan = document.createElement('span');
+                        titleSpan.textContent = title;
+                        titleSpan.classList.add('episode-title');
+
+                        const dateSpan = document.createElement('span');
+                        dateSpan.textContent = formattedDate;
+                        dateSpan.classList.add('episode-date');
+
+                        listItem.appendChild(titleSpan);
+                        listItem.appendChild(dateSpan);
+
+                        listItem.addEventListener('click', () => {
+                            if (activeListItem) {
+                                activeListItem.classList.remove('active');
+                            }
+                            activeListItem = listItem;
+                            activeListItem.classList.add('active');
+
+                            audioPlayer.src = audioUrl;
+                            episodeTitle.textContent = title;
+                            audioPlayer.play();
+                        });
+
+                        episodesList.appendChild(listItem);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching or parsing RSS feed:', error);
+                    episodesList.innerHTML = '<li>Could not load episodes.</li>';
+                });
+        });
+    </script>
 </body>
 </html>
