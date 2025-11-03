@@ -171,14 +171,14 @@
         </div>
         
         <div id="player-container">
-            <h2 id="episode-title" style="text-align: center; margin-bottom: 16px;">Select an episode to play</h2>
+            <h2 id="episode-title" style="text-align: center; margin-bottom: 16px;">აირჩიე ეპიზოდი</h2>
             <audio id="audio-player" controls>
                 Your browser does not support the audio element.
             </audio>
         </div>
 
         <div class="episodes-container">
-            <h2 style="text-align: center; margin-bottom: 16px;">Episodes</h2>
+            <h2 style="text-align: center; margin-bottom: 16px;">ეპიზოდები</h2>
             <ul id="episodes-list"></ul>
         </div>
     </div>
@@ -238,7 +238,7 @@
                 })
                 .catch(error => {
                     console.error('Error fetching or parsing RSS feed:', error);
-                    episodesList.innerHTML = '<li>Could not load episodes.</li>';
+                    episodesList.innerHTML = '<li>ეპიზოდები ვერ ჩაიტვირთა.</li>';
                 });
         });
     </script>
